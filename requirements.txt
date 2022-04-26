@@ -1,0 +1,6 @@
+glfw
+PyOpenGL
+numpy
+pyrr
+Pillow
+scipy
